@@ -315,13 +315,13 @@
     background-color: white;
     color: black;
     height: 40px;
-    width: 1309px;
+    width: 100%x;
     display:flex;
     justify-content: center;
     align-items: center;
-    margin-left: 20px;
-    margin-right: 20px;
-    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 0.85rem;
     font-weight: 549;
 }
 
