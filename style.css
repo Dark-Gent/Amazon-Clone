@@ -4,6 +4,10 @@
     border:border-box;
 }
 
+.container{
+    overflow: hidden;
+}
+
 .navbar {
     height:60px;
     background-color: #0f1111;
